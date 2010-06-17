@@ -1,0 +1,20 @@
+Q. Over ten yrs using FTE now I want switch to vim 7.x why???
+A. I don't know fte still my fav programming text editor, 
+   for heavy using git co-work with my partner, indent is my problem I've using K&R style 
+   fte still have minor different with vim all my friend all using vim :-) for happy coding
+
+Q. why it's time switch today
+A. because most must have feature working same as FTE that's my leKEY.vim :-D
+
+Q. does vim support vgrep?
+A. I've implement serval yrs ago, but few use because using fte everyday
+
+Q. what's leBRiEF
+A. that vim working heavy meta-key like brief shortcut that's my fav which also have emacs key
+   <C-X>?? I like that why most basic key stock working for every environment, that's why 
+   I've TsePRO, MicroEmacs, Emacs, JED, ViM, BRiEF, Aurora ... all working the same key stock :-D
+   
+Q. most script are others I've put here
+A. my fav vim script "Jeff Lanzarotta" bufexplorer.vim  http://www.vim.org/scripts/script.php?script_id=42
+                     "Yegappan Lakshmanan" taglist.vim  http://www.vim.org/scripts/script.php?script_id=273
+                     "Yegappan Lakshmanan" grep.vim     http://www.vim.org/scripts/script.php?script_id=311
